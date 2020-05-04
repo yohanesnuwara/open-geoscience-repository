@@ -26,3 +26,8 @@ Follow these steps:
 5. A tutorial notebook consists of workflow to access the data is provided. Visit [this notebook]()
 
 After this, we will do lots of geoscience computation with this open dataset! 
+
+## Workflows with Python
+* Well log visualization and analysis (BIG DATA)
+* Read seismic data
+* Colored seismic inversion
