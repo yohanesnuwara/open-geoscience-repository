@@ -24,7 +24,7 @@ Follow these steps:
 [![Sharing folder tutorial](https://user-images.githubusercontent.com/51282928/80994882-93c29500-8e67-11ea-86c5-e452fa7f91b1.PNG)](https://www.youtube.com/watch?v=r2YFsYOdUxU "Sharing folder tutorial")
 
 4. Once the `Public geoscience Data` moved to your `My Drive`, you could then access it. To access the data, we will use Google Colaboratory! Google Colab will be used for the entire geoscience computation in this repo.
-5. A tutorial notebook consists of workflow to access the data is provided. Visit [this notebook]()
+5. A tutorial notebook consists of workflow to access the data is provided. Visit [this notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)
 
 After this, we will do lots of geoscience computation with this open dataset! 
 
