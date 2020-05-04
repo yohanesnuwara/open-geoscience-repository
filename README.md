@@ -12,6 +12,7 @@ This Google Drive database comprises of public geoscience data compiled by [@pet
 * Dutch F3 seismic data
 * GEOLINK North Sea wells
 * Poseidon seismic
+* Core images
 
 ## How to access the public geoscience data?
 
@@ -31,3 +32,4 @@ After this, we will do lots of geoscience computation with this open dataset!
 * Well log visualization and analysis (BIG DATA)
 * Read seismic data
 * Colored seismic inversion
+* Machine learning!
