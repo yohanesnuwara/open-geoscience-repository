@@ -1,2 +1,3 @@
-# open-geoscience-repository
-Open geoscience computing of open geoscience datasets available in Google Drive: Canning TDQ 3D seismic, F3, GEOLINK North Sea, Poseidon, etc
+# Open Geoscience Computing
+
+Public geoscience data: [View data repository](https://drive.google.com/drive/mobile/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
