@@ -19,7 +19,7 @@ This Google Drive database comprises of public geoscience data compiled by [@pet
 Follow these steps:
 1. Open the Google Drive link above, or [here](https://drive.google.com/drive/mobile/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
 2. Once you open the drive, the folder `Public geoscience Data` will be stored in your `Shared with Me`.
-3. Move the folder `Public geoscience Data` into your `My Drive`. Follow the GIF tutorial below if you feel lost how to do this action 🙂
+3. Move the folder `Public geoscience Data` into your `My Drive`. Just drag and drop. Follow the GIF tutorial below if you feel lost how to do this action 🙂
 
 <div>
 <img src="https://user-images.githubusercontent.com/51282928/81036756-74108880-8eca-11ea-94c3-041ff4a5cc5d.gif" width="900"/>
