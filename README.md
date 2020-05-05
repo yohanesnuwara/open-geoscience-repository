@@ -4,6 +4,8 @@
 
 Geoscience computing workflow using Python with dataset in Google Drive cloud database
 
+## 1. Google Drive *Public geoscience Data*
+
 **Please open the Public geoscience data** 👉 [![Data repo](https://img.shields.io/badge/data%20available-google%20drive-green)](https://drive.google.com/drive/mobile/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
 
 This Google Drive database comprises of public geoscience data compiled by [@peter Ba](peteramstrand@gmail.com). Contents as follows:
@@ -14,7 +16,7 @@ This Google Drive database comprises of public geoscience data compiled by [@pet
 * Poseidon seismic
 * Core images
 
-## How to access the public geoscience data?
+### How to access the public geoscience data?
 
 Follow these steps:
 1. Open the Google Drive link above, or [here](https://drive.google.com/drive/mobile/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
@@ -29,6 +31,12 @@ Follow these steps:
 5. A tutorial notebook consists of workflow to access the data is provided. Visit [this notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)
 
 After this, we will do lots of geoscience computation with this open dataset! 
+
+## 2. SEG Wiki Open Data
+
+* Poland 2D Vibroseis Line
+* Stratton 3D
+* Mobil Avo Viking Graben Line 12
 
 ## Workflows with Python
 * Well log visualization and analysis (BIG DATA)
