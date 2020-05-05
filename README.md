@@ -34,6 +34,8 @@ After this, we will do lots of geoscience computation with this open dataset!
 
 ## 2. SEG Wiki Open Data
 
+[![Data repo](https://img.shields.io/badge/data%20available-SEG%20wiki-orange)](https://wiki.seg.org/wiki/Open_data)
+
 * Poland 2D Vibroseis Line
 * Stratton 3D
 * Mobil Avo Viking Graben Line 12
