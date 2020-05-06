@@ -2,7 +2,9 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
 
-Geoscience computing workflow using Python with dataset in Google Drive cloud database
+> Geoscience computing workflow using Python with dataset in Google Drive cloud database.
+
+👇 This is a quick catalogue of the open databases! Click on the associated link of each database to read the further details, including more detailed explanations (step-by-step) on the Python workflow to access the data. Let's get started!
 
 |Open Databases|Owner|Topics|Accessible Contents|How-to-access tutorial|
 |:---:|:---:|:---:|:---:|:---:|
