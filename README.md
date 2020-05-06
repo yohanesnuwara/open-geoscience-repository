@@ -4,12 +4,12 @@
 
 Geoscience computing workflow using Python with dataset in Google Drive cloud database
 
-|Open Databases|Topics|Contents|How-to-access tutorial|
-|:---:|:---:|:---:|:---:|
-|Google Drive<br> *Public geoscience Data*|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>48 well composite logs</li> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> </ul>||
-|Google Drive<br> *Open Digital Rock*||||
-|SEG Wiki||||
-|Digital Rocks Portal||||
+|Open Databases|Owner|Topics|Contents|How-to-access tutorial|
+|:---:|:---:|:---:|:---:|:---:|
+|Google Drive<br> *Public geoscience Data*|[Peter Amstrand](peteramstrand@gmail.com)|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>48 well composite logs</li> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> </ul>||
+|Google Drive<br> *Open Digital Rock*|[yohanesnuwara](ign.nuwara97@gmail.com)||||
+|SEG Wiki|SEG||||
+|Digital Rocks Portal|The University of Texas<br>at Austin||||
 
 
 ## 1. Google Drive *Public geoscience Data*
