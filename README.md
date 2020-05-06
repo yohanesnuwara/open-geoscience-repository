@@ -26,7 +26,7 @@ This Google Drive database comprises of public geoscience data compiled by [@pet
 ### How to access the public geoscience data?
 
 Follow these steps:
-1. Open this link 👉 ![Data repo](https://img.shields.io/badge/data%20available-google%20drive-green)
+1. Open this link 👉 [![Data repo](https://img.shields.io/badge/data%20available-google%20drive-green)](https://drive.google.com/drive/u/0/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
 2. Once you open the drive, the folder `Public geoscience Data` will be stored in your `Shared with Me`.
 3. Move the folder `Public geoscience Data` into your `My Drive`. Just drag and drop. Follow the GIF tutorial below if you feel lost how to do this action 🙂
 
