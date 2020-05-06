@@ -12,7 +12,7 @@ Geoscience computing workflow using Python with dataset in Google Drive cloud da
 |Digital Rocks Portal|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
 
 
-## 1. Google Drive *Public geoscience Data*
+## Google Drive *Public geoscience Data*
 
 **Please open the Public geoscience data** 👉 [![Data repo](https://img.shields.io/badge/data%20available-google%20drive-green)](https://drive.google.com/drive/mobile/folders/0B7brcf-eGK8CRUhfRW9rSG91bW8)
 
@@ -40,13 +40,17 @@ Follow these steps:
 
 After this, we will do lots of geoscience computation with this open dataset! 
 
-## 2. SEG Wiki Open Data
+## Google Drive *Open Digital Rock*
+
+## SEG Wiki Open Data
 
 [![Data repo](https://img.shields.io/badge/data%20available-SEG%20wiki-orange)](https://wiki.seg.org/wiki/Open_data)
 
 * Poland 2D Vibroseis Line
 * Stratton 3D
 * Mobil Avo Viking Graben Line 12
+
+## Digital Rocks Portal
 
 ## Workflows with Python
 * Well log visualization and analysis (BIG DATA)
