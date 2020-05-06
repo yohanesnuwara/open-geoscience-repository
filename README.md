@@ -4,12 +4,12 @@
 
 Geoscience computing workflow using Python with dataset in Google Drive cloud database
 
-|Open Databases|Owner|Topics|Contents|How-to-access tutorial|
+|Open Databases|Owner|Topics|Accessible Contents|How-to-access tutorial|
 |:---:|:---:|:---:|:---:|:---:|
-|Google Drive<br> *Public geoscience Data*|Peter Amstrand|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>48 well composite logs</li> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> </ul>||
-|Google Drive<br> *Open Digital Rock*|yohanesnuwara||||
-|SEG Wiki|SEG||||
-|Digital Rocks Portal|The University of Texas<br>at Austin||||
+|Google Drive<br> *Public geoscience Data*|Peter Amstrand|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>48 well composite logs</li> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> </ul>|[Notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)|
+|Google Drive<br> *Open Digital Rock*|yohanesnuwara|Digital rock<br>dataset|<ul> <li>Berea sandstone</li> <li>Synthetic rock</li> </ul>|[Notebook]()|
+|SEG Wiki|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> </ul>|[Notebook]()|
+|Digital Rocks Portal|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
 
 
 ## 1. Google Drive *Public geoscience Data*
