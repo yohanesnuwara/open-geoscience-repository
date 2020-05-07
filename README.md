@@ -1,7 +1,5 @@
 # Open Geoscience Computing Repository
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
-
 > Geoscience computing workflow using Python with dataset in online and Google Drive databases.
 
 👇 This is a quick catalogue of the open databases! Click on the associated link of each database to read the further details, including more detailed explanations (step-by-step) on the Python workflow to access the data.
@@ -14,9 +12,15 @@ Let's get started!
 |[Google Drive<br> *Open Digital Rock*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-open-digital-rock)|yohanesnuwara|Digital rock<br>dataset|<ul> <li>Berea sandstone</li> <li>Synthetic rock</li> </ul>|[Notebook]()|
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
 |[Digital Rocks Portal](https://github.com/yohanesnuwara/open-geoscience-repository#digital-rocks-portal)|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
-|[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> </ul>|[Notebook]()|
+|[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> <li>Project KIMAMA</li> </ul>|[Notebook]()|
 
 ### Why do we need Google Colaboratory?
+
+For Python users, we have already been familiar with the **Jupyter notebooks** on a local computer. While geoscience datasets often comes into a very **large size** (megabytes, gigabytes), we don't want to populate our computer with large datasets. The right choice, is to access the datasets and compute **on cloud**.
+
+Yes, **Google Colaboratory is a Jupyter notebook in the Google cloud** (Note: not a Google Cloud Platform). Why Google Colab? Well, first and foremost, Google Colab is free. Second, we can speed up the download rate of a large dataset. 
+
+On top of every how-to-access tutorial notebooks link, there will be a badge like this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com). Click this badge, and we will be re-directed to Google Colab to run the codes. 
 
 # Google Drive *Public geoscience Data*
 
@@ -59,7 +63,7 @@ I just compile a handful of public digital rock datasets in this Google Drive. C
 
 ### How to access these data?
 
-The steps also go similarly with the [previous steps](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data) of transferring the folder `Open Digital Rock` from folder `Shared with Me` to `My Folder`. Follow through the steps, until you are in Google Colab.   
+The steps also go similarly with the [previous steps](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data) of transferring the folder `Open Digital Rock` from folder `Shared with Me` to `My Folder`. Follow through the steps, until you are in Google Colab. Then open this [notebook]() to learn how to access the dataset.  
 
 # SEG Wiki Open Data
 
@@ -71,7 +75,9 @@ The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Ope
 * Stratton 3D
 * Mobil Avo Viking Graben Line 12
 
-> Note: These lists will be updated frequently whenever I find the data could be accessed using Python! 
+> Note: These lists will be updated frequently whenever I find certain dataset could be accessed using Python!
+
+
 
 # Digital Rocks Portal
 
