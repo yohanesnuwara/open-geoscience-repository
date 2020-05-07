@@ -14,13 +14,13 @@ Let's get started!
 |[Digital Rocks Portal](https://github.com/yohanesnuwara/open-geoscience-repository#digital-rocks-portal)|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
 |[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> <li>Project KIMAMA</li> </ul>|[Notebook]()|
 
-### Why do we need Google Colaboratory?
+### ❓ Why do we need Google Colaboratory?
 
 For Python users, we have already been familiar with the **Jupyter notebooks** on a local computer. While geoscience datasets often comes into a very **large size** (megabytes, gigabytes), we don't want to populate our computer with large datasets. The right choice, is to access the datasets and compute **on cloud**.
 
 Yes, **Google Colaboratory is a Jupyter notebook in the Google cloud** (Note: not a Google Cloud Platform). Why Google Colab? Well, first and foremost, Google Colab is free. Second, we can speed up the download rate of a large dataset. 
 
-On top of every how-to-access tutorial notebooks link, there will be a badge like this [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com). Click this badge, and we will be re-directed to Google Colab to run the codes. 
+On top of every how-to-access tutorial notebooks link, there will be a badge like this ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg). **<ins>Click this badge</ins>**, and we will be re-directed to Google Colab to run the codes. 
 
 # Google Drive *Public geoscience Data*
 
@@ -46,24 +46,18 @@ Follow these steps:
 4. Once the `Public geoscience Data` moved to your `My Drive`, you could then access it. To access the data, we will use Google Colaboratory! Google Colab will be used for the entire geoscience computation in this repo.
 5. A tutorial notebook consists of workflow to access the data (from **extracting ZIP or TAR files** to **viewing simple data e.g. seismic data and well log data**) is provided. Visit [this notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)
 
-After this, we will do lots of geoscience computation with this open dataset!
-
-### Python computing workflows
-
-* Well log visualization and analysis (BIG DATA)
-* Read seismic data
-* Colored seismic inversion
-* Machine learning!
+> ⚠️ **Copyright** In each of the dataset folder, there should be a `README` or instruction on how to cite the dataset, for instance the Canning 3D TDQ dataset. Please carefully review this. Unless there is an instruction, please use this citation: *Peter Amstrand (2017, 2018, 2019)*
 
 # Google Drive *Open Digital Rock*
-
-I just compile a handful of public digital rock datasets in this Google Drive. Contents as follows:
+There is a handful compilation of public digital rock datasets in this Google Drive. Contents as follows:
 * Berea sandstone (Source: [Imperial College London](https://www.imperial.ac.uk/earth-science/research/research-groups/perm/research/pore-scale-modelling/micro-ct-images-and-networks/berea-sandstone/))
 * Synthetic rock datasets (7 datasets)
 
 ### How to access these data?
 
-The steps also go similarly with the [previous steps](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data) of transferring the folder `Open Digital Rock` from folder `Shared with Me` to `My Folder`. Follow through the steps, until you are in Google Colab. Then open this [notebook]() to learn how to access the dataset.  
+The steps also go similarly with the [previous steps](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data) of transferring the folder `Open Digital Rock` from folder `Shared with Me` to `My Folder`. Follow through the steps, until you are in Google Colab. Then open this [notebook]() to learn how to access the dataset.
+
+> ⚠️ **Copyright** Please cite this when you use this data: *PECS Institut Teknologi Bandung (2018)*
 
 # SEG Wiki Open Data
 
@@ -77,9 +71,13 @@ The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Ope
 
 > Note: These lists will be updated frequently whenever I find certain dataset could be accessed using Python!
 
+### How to access these data?
 
+Directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
 # Digital Rocks Portal
+
+Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data.  
 
 # Geothermal Data Repository (GDR) OpenEi
 
