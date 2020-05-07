@@ -4,7 +4,9 @@
 
 > Geoscience computing workflow using Python with dataset in online and Google Drive databases.
 
-👇 This is a quick catalogue of the open databases! Click on the associated link of each database to read the further details, including more detailed explanations (step-by-step) on the Python workflow to access the data. Let's get started!
+👇 This is a quick catalogue of the open databases! Click on the associated link of each database to read the further details, including more detailed explanations (step-by-step) on the Python workflow to access the data.
+
+Let's get started!
 
 |Open Databases|Owner|Topics|Accessible Contents|How-to-access tutorial|
 |:---:|:---:|:---:|:---:|:---:|
@@ -12,6 +14,7 @@
 |[Google Drive<br> *Open Digital Rock*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-open-digital-rock)|yohanesnuwara|Digital rock<br>dataset|<ul> <li>Berea sandstone</li> <li>Synthetic rock</li> </ul>|[Notebook]()|
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
 |[Digital Rocks Portal](https://github.com/yohanesnuwara/open-geoscience-repository#digital-rocks-portal)|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
+|[GDR OpenEi]()|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> </ul>|[Notebook]()|
 
 ### Why do we need Google Colaboratory?
 
@@ -52,7 +55,7 @@ After this, we will do lots of geoscience computation with this open dataset!
 
 I just compile a handful of public digital rock datasets in this Google Drive. Contents as follows:
 * Berea sandstone (Source: [Imperial College London](https://www.imperial.ac.uk/earth-science/research/research-groups/perm/research/pore-scale-modelling/micro-ct-images-and-networks/berea-sandstone/))
-* Synthetic rock datasets
+* Synthetic rock datasets (7 datasets)
 
 ### How to access these data?
 
@@ -60,11 +63,17 @@ The steps also go similarly with the [previous steps](https://github.com/yohanes
 
 # SEG Wiki Open Data
 
+The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Open_data) to see the lists of the open data. There are almost > 30 major datasets (well logs, 2D and 3D seismic both the original data from major fields and synthetic data, synthetic earth model, gravity and magnetic data, etc) overall, <ins>however</ins> some data contains unrecognizable formats that could not be processed simply in Python. Here are some of the contents that are accessible so far:
+
 [![Data repo](https://img.shields.io/badge/data%20available-SEG%20wiki-orange)](https://wiki.seg.org/wiki/Open_data)
 
 * Poland 2D Vibroseis Line
 * Stratton 3D
 * Mobil Avo Viking Graben Line 12
 
+> Note: These lists will be updated frequently whenever I find the data could be accessed using Python! 
+
 # Digital Rocks Portal
+
+# Geothermal Data Repository (GDR) OpenEi
 
