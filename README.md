@@ -73,11 +73,15 @@ The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Ope
 
 ### How to access these data?
 
-Directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
+First off, it is best if we know any detail about the dataset. So, please visit first the SEG Wiki [page](https://wiki.seg.org/wiki/Open_data), and browse the name of the dataset.
+
+Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
+
+> ⚠️ **Copyright** Different datasets in the SEG Wiki page has their own citation nomenclatures. Please review the citation nomenclatures of your interest.  
 
 # Digital Rocks Portal
 
-Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data.  
+Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data.
 
 # Geothermal Data Repository (GDR) OpenEi
 
