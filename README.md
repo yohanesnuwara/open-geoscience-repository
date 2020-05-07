@@ -14,7 +14,7 @@ Let's get started!
 |[Google Drive<br> *Open Digital Rock*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-open-digital-rock)|yohanesnuwara|Digital rock<br>dataset|<ul> <li>Berea sandstone</li> <li>Synthetic rock</li> </ul>|[Notebook]()|
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
 |[Digital Rocks Portal](https://github.com/yohanesnuwara/open-geoscience-repository#digital-rocks-portal)|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
-|[GDR OpenEi]()|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> </ul>|[Notebook]()|
+|[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> </ul>|[Notebook]()|
 
 ### Why do we need Google Colaboratory?
 
