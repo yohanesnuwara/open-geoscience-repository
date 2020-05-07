@@ -63,8 +63,6 @@ The steps also go similarly with the [previous steps](https://github.com/yohanes
 
 The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Open_data) to see the lists of the open data. There are almost > 30 major datasets (well logs, 2D and 3D seismic both the original data from major fields and synthetic data, synthetic earth model, gravity and magnetic data, etc) overall, <ins>however</ins> some data contains unrecognizable formats that could not be processed simply in Python. Here are some of the contents that are accessible so far:
 
-[![Data repo](https://img.shields.io/badge/data%20available-SEG%20wiki-orange)](https://wiki.seg.org/wiki/Open_data)
-
 * Poland 2D Vibroseis Line
 * Stratton 3D
 * Mobil Avo Viking Graben Line 12
@@ -77,11 +75,25 @@ First off, it is best if we know any detail about the dataset. So, please visit 
 
 Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
-> ⚠️ **Copyright** Different datasets in the SEG Wiki page has their own citation nomenclatures. Please review the citation nomenclatures of your interest.  
+> ⚠️ **Copyright** Different datasets in the SEG Wiki page has their own citation nomenclatures. Please review the citation nomenclatures of your interest in the webpage.  
 
 # Digital Rocks Portal
 
-Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data.
+Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data. Visit this [webpage](https://www.digitalrocksportal.org/projects/). There are 15+ accessible datasets out of total amount of 50+ datasets in *Digital Rocks Portal*. Accessible content as follows:
+* Austin Chalk
+* Bentheimer
+* Estaillades Carbonate
+* Fontainebleau
+
+> Note: These lists will be updated frequently whenever datasets are available for download.
+
+### How to access these data?
+
+First off, it is best if we know any detail about the dataset. So, please visit first the [webpage](https://www.digitalrocksportal.org/projects/), and browse the name of the dataset.
+
+Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
+
+> ⚠️ **Copyright** Different datasets in the *Digital Rocks Portal* page has their own citation nomenclatures. Please review the citation nomenclatures of your interest in the webpage.  
 
 # Geothermal Data Repository (GDR) OpenEi
 
