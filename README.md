@@ -12,6 +12,10 @@ Let's get started!
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
 |[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> <li>Project KIMAMA</li> </ul>|[Notebook]()|
 
+### ⚠️ Look at this sign ... 
+
+at the end of each of the open databases below. This is a **Copyright** note, meaning that when you use this data for certain purposes, you should cite the dataset to its owner institution. Please review the <ins>wiki-page link</ins> that associates.  
+
 ### ❓ Why do we need Google Colaboratory?
 
 For Python users, we have already been familiar with the **Jupyter notebooks** on a local computer. While geoscience datasets often comes into a very **large size** (megabytes, gigabytes), we don't want to populate our computer with large datasets. The right choice, is to access the datasets and compute **on cloud**.
