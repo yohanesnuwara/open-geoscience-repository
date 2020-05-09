@@ -9,9 +9,7 @@ Let's get started!
 |Open Databases|Owner|Topics|Accessible Contents|How-to-access tutorial|
 |:---:|:---:|:---:|:---:|:---:|
 |[Google Drive<br> *Public geoscience Data*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data)|Peter Amstrand|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> <li>48 well composite logs</li> </ul>|[Notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)|
-|[Google Drive<br> *Open Digital Rock*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-open-digital-rock)|yohanesnuwara|Digital rock<br>dataset|<ul> <li>Berea sandstone</li> <li>Synthetic rock</li> </ul>|[Notebook]()|
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
-|[Digital Rocks Portal](https://github.com/yohanesnuwara/open-geoscience-repository#digital-rocks-portal)|The University of Texas<br>at Austin|Digital rock<br>dataset|<ul> <li>Austin Chalk</li> <li>Bentheimer</li> <li>Estaillades Carbonate</li> <li>Fontainebleau</li> </ul>|[Notebook]()|
 |[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> <li>Project KIMAMA</li> </ul>|[Notebook]()|
 
 ### ❓ Why do we need Google Colaboratory?
@@ -48,17 +46,6 @@ Follow these steps:
 
 > ⚠️ **Copyright** In each of the dataset folder, there should be a `README` or instruction on how to cite the dataset, for instance the Canning 3D TDQ dataset. Please carefully review this. Unless there is an instruction, please use this citation: *Peter Amstrand (2017, 2018, 2019)*
 
-# Google Drive *Open Digital Rock*
-There is a handful compilation of public digital rock datasets in this Google Drive. Contents as follows:
-* Berea sandstone (Source: [Imperial College London](https://www.imperial.ac.uk/earth-science/research/research-groups/perm/research/pore-scale-modelling/micro-ct-images-and-networks/berea-sandstone/))
-* Synthetic rock datasets (7 datasets)
-
-### How to access these data?
-
-The steps also go similarly with the [previous steps](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data) of transferring the folder `Open Digital Rock` from folder `Shared with Me` to `My Folder`. Follow through the steps, until you are in Google Colab. Then open this [notebook]() to learn how to access the dataset.
-
-> ⚠️ **Copyright** Please cite this when you use this data: *PECS Institut Teknologi Bandung (2018)*
-
 # SEG Wiki Open Data
 
 The website SEG Wiki, please go through the [page](https://wiki.seg.org/wiki/Open_data) to see the lists of the open data. There are almost > 30 major datasets (well logs, 2D and 3D seismic both the original data from major fields and synthetic data, synthetic earth model, gravity and magnetic data, etc) overall, <ins>however</ins> some data contains unrecognizable formats that could not be processed simply in Python. Here are some of the contents that are accessible so far:
@@ -76,24 +63,6 @@ First off, it is best if we know any detail about the dataset. So, please visit 
 Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
 > ⚠️ **Copyright** Different datasets in the SEG Wiki page has their own citation nomenclatures. Please review the citation nomenclatures of your interest in the webpage.  
-
-# Digital Rocks Portal
-
-Digital Rocks Portal by Texas Advanced Computing Center (TACC) of The University of Texas at Austin is a very complete data portal for porous rock micro-structure data. Visit this [webpage](https://www.digitalrocksportal.org/projects/). There are 15+ accessible datasets out of total amount of 50+ datasets in *Digital Rocks Portal*. Accessible content as follows:
-* Austin Chalk
-* Bentheimer
-* Estaillades Carbonate
-* Fontainebleau
-
-> Note: These lists will be updated frequently whenever datasets are available for download.
-
-### How to access these data?
-
-First off, it is best if we know any detail about the dataset. So, please visit first the [webpage](https://www.digitalrocksportal.org/projects/), and browse the name of the dataset.
-
-Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
-
-> ⚠️ **Copyright** Different datasets in the *Digital Rocks Portal* page has their own citation nomenclatures. Please review the citation nomenclatures of your interest in the webpage.  
 
 # Geothermal Data Repository (GDR) OpenEi
 
