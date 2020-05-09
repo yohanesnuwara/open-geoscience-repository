@@ -44,7 +44,7 @@ Follow these steps:
 4. Once the `Public geoscience Data` moved to your `My Drive`, you could then access it. To access the data, we will use Google Colaboratory! Google Colab will be used for the entire geoscience computation in this repo.
 5. A tutorial notebook consists of workflow to access the data (from **extracting ZIP or TAR files** to **viewing simple data e.g. seismic data and well log data**) is provided. Visit [this notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)
 
-> ⚠️ **Copyright** In each of the dataset folder, there should be a `README` or instruction on how to cite the dataset, for instance the Canning 3D TDQ dataset. Please carefully review this. Unless there is an instruction, please use this citation: *Peter Amstrand (2017, 2018, 2019)*
+> ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/Google-Drive-Public-geoscience-Data---How-to-Cite)
 
 # SEG Wiki Open Data
 
@@ -62,7 +62,8 @@ First off, it is best if we know any detail about the dataset. So, please visit 
 
 Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
-> ⚠️ **Copyright** Different datasets in the SEG Wiki page has their own citation nomenclatures. Please review the citation nomenclatures of your interest in the webpage.  
+> ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/SEG-Wiki-Open-Data---How-to-Cite)
 
 # Geothermal Data Repository (GDR) OpenEi
 
+> ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/GDR-OpenEi---How-to-Cite)
