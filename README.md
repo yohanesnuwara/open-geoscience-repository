@@ -1,5 +1,7 @@
 # Open Geoscience Computing Repository
 
+[![License](https://img.shields.io/badge/license-Creative%20Commons%204.0-orange)](https://creativecommons.org/licenses/by/4.0/)
+
 > Geoscience computing workflow using Python with dataset in online and Google Drive databases.
 
 👇 This is a quick catalogue of the open databases! Click on the associated link of each database to read the further details, including more detailed explanations (step-by-step) on the Python workflow to access the data.
@@ -10,7 +12,7 @@ Let's get started!
 |:---:|:---:|:---:|:---:|:---:|
 |[Google Drive<br> *Public geoscience Data*](https://github.com/yohanesnuwara/open-geoscience-repository#google-drive-public-geoscience-data)|Peter Amstrand|<ul> <li>Well logs</li> <li>Core data</li> <li>Seismic (3D)</li> </ul>|<ul> <li>Canning 3D TDQ seismic</li> <li>Dutch F3 seismic data</li> <li>GEOLINK North Sea wells</li> <li>Poseidon seismic</li> <li>Core Images</li> <li>48 well composite logs</li> </ul>|[Notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_public_geoscience_data.ipynb)|
 |[SEG Wiki](https://github.com/yohanesnuwara/open-geoscience-repository#seg-wiki-open-data)|SEG|<ul> <li>Well logs</li> <li>Seismic (2D)</li> <li>Seismic (3D)</li> <li>Synthetic Models</li> </ul>|<ul> <li>Poland 2D Vibroseis</li> <li>Stratton 3D</li> <li>Mobil Avo Viking<br>Graben Line 12</li> <li>New Zealand 3D</li> </ul>|[Notebook]()|
-|[GDR OpenEi](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Geological Survey|Geothermal|<ul> <li>Utah FORGE</li> <li>Project KIMAMA</li> </ul>|[Notebook]()|
+|[GDR OpenEI](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Department of Energy|Geothermal|<ul> <li>Project Utah FORGE</li> <li>Project HOTSPOT</li> </ul>|[Notebook]()|
 
 ### ⚠️ Look at this sign ... 
 
@@ -68,6 +70,17 @@ Next, directly visit this tutorial [notebook]() link, click on the badge ![Open 
 
 > ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/SEG-Wiki-Open-Data---How-to-Cite)
 
-# Geothermal Data Repository (GDR) OpenEi
+# Geothermal Data Repository (GDR) OpenEI
+
+GDR OpenEi is an open geothermal energy data portal provided by the United States Department of Energy (DoE) and developed by the National Renewable Energy Laboratory (NREL). Datasets in from the U.S. FORGE geothermal projects, Enhanced Geothermal System (EGS), and Hydrothermal, in this [webpage](https://gdr.openei.org/). Contents as follows:
+
+* Project Utah FORGE (Roosevelt Hot Springs)
+* Project HOTSPOT (The Snake River Plain, SRP)
+
+### How to access these data?
+
+First off, it is best if we know any detail about the dataset. So, please visit first the SEG Wiki [page](https://wiki.seg.org/wiki/Open_data), and browse the name of the dataset.
+
+Next, directly visit this tutorial [notebook]() link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
 > ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/GDR-OpenEi---How-to-Cite)
