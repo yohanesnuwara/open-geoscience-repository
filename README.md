@@ -84,3 +84,8 @@ First off, it is best if we know any detail about the dataset. So, please visit 
 Next, directly visit this tutorial [notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_gdr_openei.ipynb) link, click on the badge ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) that appeared on top, and you will be re-directed to Google Colab. We will learn how to use `wget` to get the data directly from the open database website, just follow through the instructions! 
 
 > ⚠️ **Copyright** Every dataset that we use must be cited to the institution that owns the dataset. Please refer to this [citation wiki-page](https://github.com/yohanesnuwara/open-geoscience-repository/wiki/GDR-OpenEi---How-to-Cite)
+
+## Valuable libraries
+
+1. segyio: the easy-to-understand tutorial from [Awesome Open Source](https://awesomeopensource.com/project/equinor/segyio) and official docs from [Equinor's segyio](https://segyio.readthedocs.io/en/1.5.3/segyio.html)
+2. lasio: [docs](https://lasio.readthedocs.io/en/latest/)
