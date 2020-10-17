@@ -15,6 +15,7 @@ Let's get started!
 |[GDR OpenEI](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/README.md#geothermal-data-repository-gdr-openei)|United States<br> Department of Energy|Geothermal|<ul> <li>Project Utah FORGE</li> <li>Project HOTSPOT</li> </ul>|[Notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_gdr_openei.ipynb)|
 |[KGS Repository](http://www.kgs.ku.edu/PRS/Scans/Log_Summary/index.html)|Kansas Geological Survey|Oil and Gas|Archive of well logs<br> from 1990 up to date||
 |[MSEEL Repository](http://www.mseel.org/data/Wells_Datasets/)|Marcellus Shale Energy<br> and Environmental Laboratory|Unconventional<br> Oil and Gas|Well datasets in<br> Marcellus Shale||
+|[14 Wildcat Wells in the</br> National Petroleum Reserve</br> in Alaska](https://certmapper.cr.usgs.gov/data/PubArchives/OF00-200/WELLS/WELLIDX.HTM)|Department of the Interior</br>U.S. Geological Survey|Oil and Gas</br> wildcat survey|<ul> <li>Well logs</li> <li>Core photographs</li></ul>
 
 ### ⚠️ Look at this sign ... 
 
