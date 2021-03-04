@@ -17,6 +17,7 @@ Let's get started!
 |[MSEEL Repository](http://www.mseel.org/data/Wells_Datasets/)|Marcellus Shale Energy<br> and Environmental Laboratory|Unconventional<br> Oil and Gas|Well datasets in<br> Marcellus Shale|[notebook](https://github.com/yohanesnuwara/open-geoscience-repository/blob/master/how_to_access_mseel.ipynb)|
 |[14 Wildcat Wells in the</br> National Petroleum Reserve</br> in Alaska](https://certmapper.cr.usgs.gov/data/PubArchives/OF00-200/WELLS/WELLIDX.HTM)|Department of the Interior</br>U.S. Geological Survey|Oil and Gas</br> wildcat survey|<ul> <li>Well logs</li> <li>Core photographs</li></ul>||
 |[Oil and Gas Data</br> Files](http://www.occeweb.com/og/ogdatafiles2.htm)|Oklahoma Corporation Commission|Oil and Gas|Production Data||
+|[SPE Data Repository](https://www.spe.org/en/industry/data-repository/)|SPE|Multi-fracture well|<ul> <li>Well logs</li> <li>Deviation</li> <li>Production data</li></ul>
 
 ### ⚠️ Look at this sign ... 
 
