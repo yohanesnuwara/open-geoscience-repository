@@ -94,3 +94,4 @@ Next, directly visit this tutorial [notebook](https://github.com/yohanesnuwara/o
 
 1. segyio: the easy-to-understand tutorial from [Awesome Open Source](https://awesomeopensource.com/project/equinor/segyio) and official docs from [Equinor's segyio](https://segyio.readthedocs.io/en/1.5.3/segyio.html)
 2. lasio: [docs](https://lasio.readthedocs.io/en/latest/)
+3. amazing project.
